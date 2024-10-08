@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 1296px;
+  }
+svg{
+    position: relative;
+    left: 400px;
+    bottom: 20px;
+}
+
+.meow{
+    width: 40%;
+    position: relative;
+    top: 130px;
+    
+}
